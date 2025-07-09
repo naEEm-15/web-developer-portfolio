@@ -28,6 +28,9 @@
     border-radius: 5px;
     border:none;
 }
+.text-center{
+    text-align: center;
+}
 
 .header{
     background-image: url(../images/developer.png),url(../images/header_bg.png);
@@ -116,4 +119,13 @@ main{
 }
 .item-description{
     font-weight: 600;
+}
+.skills-container{
+    display:flex;
+    gap: 24px;
+}
+.skill{
+    padding: 50px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
 }
