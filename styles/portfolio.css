@@ -47,8 +47,9 @@
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin:50px 200px;
+    justify-content:space-between;
+    margin-right: 5px;
+    margin-left: 200px;
 }
 
 .banner{
@@ -87,6 +88,7 @@ nav{
 nav ul{
     display:flex;
     align-items: center;
+
 }
 
 nav ul li{
